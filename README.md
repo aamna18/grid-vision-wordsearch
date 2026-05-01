@@ -142,11 +142,4 @@ Inaccurate cell boundaries degrade OCR quality. Line-based grid reconstruction e
 - Accuracy is dependent on input image resolution and scan quality
 - Severely distorted or handwritten puzzles may reduce recognition accuracy
 - The target word list must be provided manually
----
- 
-## Potential Extensions
- 
-- Automatic word list extraction via OCR on puzzle margins
-- Web interface for file upload and interactive visualization
-- Real-time camera input support
-- Lightweight model variant for mobile deployment
+
